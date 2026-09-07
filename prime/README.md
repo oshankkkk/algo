@@ -1,5 +1,3 @@
-DSA is not really a coherant set of concepts, it more like just different ways we arrange data and various algorithms thats build around those structures. There is no "this concept builds on top of that" kind of thing. Its kind of like the multiplication table where you just do math and will imemorise it automatically.
-
 ## BigO-fyi
 ### What is bigO
 Measurement of how your programs memory and computation grows repect to the growth of the input size.
